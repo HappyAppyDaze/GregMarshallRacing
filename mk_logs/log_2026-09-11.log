@@ -1,0 +1,10 @@
+============= DEBUG - Live Support - Error in response =============
+
+Time        : 2026-09-11 7:46:34
+Log Level   : DEBUG
+Subject     : Live Support - Error in response
+Tags        : 
+Env info    : 
+Message     : cURL error 56: OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 104
+
+

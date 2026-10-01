@@ -1,0 +1,4 @@
+
+require:
+	/var/www/vhosts/common/int-command.php
+	/var/www/vhosts/common/class-tfsp-git-command.php
